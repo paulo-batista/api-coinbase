@@ -11,8 +11,8 @@ import requests
 import base64
 import json
 from requests.auth import AuthBase
-from apicb.public_client import PublicClient
-from apicb.apicb_auth import CBProAuth
+from public_client import PublicClient
+from apicb_auth import CBProAuth
 
 
 class AuthenticatedClient(PublicClient):
