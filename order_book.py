@@ -8,8 +8,8 @@ from sortedcontainers import SortedDict
 from decimal import Decimal
 import pickle
 
-from api-coinbase.public_client import PublicClient
-from api-coinbase.websocket_client import WebsocketClient
+from apicb.public_client import PublicClient
+from apicb.websocket_client import WebsocketClient
 
 
 class OrderBook(WebsocketClient):
