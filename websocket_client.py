@@ -14,7 +14,7 @@ import time
 from threading import Thread
 from websocket import create_connection, WebSocketConnectionClosedException
 from pymongo import MongoClient
-from api-coinbase.coinbase_auth import get_auth_headers
+from apicb.apicb_auth import get_auth_headers
 
 
 class WebsocketClient(object):
