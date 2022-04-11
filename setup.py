@@ -20,7 +20,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='apicb',
-    version='1.0',
+    version='1.1.4',
     author='Paulo Batista',
     author_email='paulobatista.phd@gmail.com',
     license='MIT',
