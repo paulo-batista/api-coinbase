@@ -19,7 +19,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='api-coinbase',
+    name='apicb',
     version='1.1.4',
     author='Paulo Batista',
     author_email='paulobatista.phd@gmail.com',
