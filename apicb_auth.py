@@ -5,7 +5,7 @@ import base64
 from requests.auth import AuthBase
 
 
-class api-coinbase_auth(AuthBase):
+class apicb_auth(AuthBase):
     # Provided by api-coinbase: https://docs.pro.coinbase.com/#signing-a-message
     def __init__(self, api_key, secret_key, passphrase):
         self.api_key = api_key
