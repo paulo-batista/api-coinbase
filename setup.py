@@ -24,7 +24,7 @@ setup(
     author='Paulo Batista',
     author_email='paulobatista.phd@gmail.com',
     license='MIT',
-    #url='https://github.com/paulo-batista/api-coinbase/',
+    #url='https://github.com/paulo-batista/api-coinbase',
     packages=find_packages(),
     install_requires=install_requires,
     tests_require=tests_require,
