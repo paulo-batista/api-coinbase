@@ -34,7 +34,7 @@ setup(
     description='The unofficial Python client for the Coinbase Pro API',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    #download_url='https://github.com/danpaquin/coinbasepro-python/archive/master.zip',
+    download_url='https://github.com/paulo-batista/api-coinbase/archive/master.zip',
     keywords=['gdax', 'gdax-api', 'orderbook', 'trade', 'bitcoin', 'ethereum', 'BTC', 'ETH', 'client', 'api', 'wrapper',
               'exchange', 'crypto', 'currency', 'trading', 'trading-api', 'coinbase', 'pro', 'prime', 'coinbasepro'],
     classifiers=[
